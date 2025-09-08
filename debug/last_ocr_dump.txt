@@ -1,0 +1,38 @@
+[orig] chars=0 avg_conf=0.000 dbg=ocr_debug_orig_5c796b8467c849adb61751dbcf649a13.jpg
+
+
+
+[sharp] chars=0 avg_conf=0.000 dbg=ocr_debug_sharp_f21fbd65781247e79f52e19249ce104d.jpg
+
+
+
+[bin] chars=0 avg_conf=0.000 dbg=ocr_debug_bin_a2814884e5b04ebb8adee6b9a219a048.jpg
+
+
+
+[ada] chars=0 avg_conf=0.000 dbg=ocr_debug_ada_ecbf76e3907b43d1adb3b06e907bcd4f.jpg
+
+
+
+[orig_1p5] chars=0 avg_conf=0.000 dbg=ocr_debug_orig_1p5_b04da84aa064468d9d1ee9a7371889f7.jpg
+
+
+
+[bin_1p5] chars=0 avg_conf=0.000 dbg=ocr_debug_bin_1p5_90544ec7febc4700873a8862e788ffee.jpg
+
+
+
+[ada_1p5] chars=0 avg_conf=0.000 dbg=ocr_debug_ada_1p5_30136189a98648aea910b83a7c614531.jpg
+
+
+
+[orig_2x] chars=0 avg_conf=0.000 dbg=ocr_debug_orig_2x_af456d3a60e7488cb4de773596f7f827.jpg
+
+
+
+[bin_2x] chars=0 avg_conf=0.000 dbg=ocr_debug_bin_2x_87bdd97fc91446859ec864ee877a92e0.jpg
+
+
+
+[ada_2x] chars=0 avg_conf=0.000 dbg=ocr_debug_ada_2x_a7f1cdccfa064fef8a2ca2dc873ed893.jpg
+

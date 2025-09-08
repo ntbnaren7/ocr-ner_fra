@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+venv/
+.venv/
+env/
+.env
+
+# PyCharm
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build/dist
+build/
+dist/
+*.egg-info/
+
+# Tests/coverage
+.coverage
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Large files / models / audio (use Git LFS or external storage)
+*.wav
+*.mp3
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Credentials
+*.pem
+*.key
+.secret

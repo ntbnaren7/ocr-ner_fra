@@ -1,0 +1,9 @@
+paddleocr
+paddlepaddle
+opencv-python
+pdf2image
+pdfplumber
+spacy
+fastapi
+uvicorn[standard]
+python-multipart
