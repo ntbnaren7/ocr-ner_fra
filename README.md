@@ -34,7 +34,7 @@ This tool was developed as part of **SIH 2025** to facilitate automated data ext
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ocr-ner_fra.git
+git clone https://github.com/ntbnaren7/ocr-ner_fra
 cd ocr-ner-documents
 ```
 
